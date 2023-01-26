@@ -1,0 +1,2 @@
+#! /bin/sh
+gcc -Wall -Wextra -o ch340g_eeprom main.c -lusb-1.0
